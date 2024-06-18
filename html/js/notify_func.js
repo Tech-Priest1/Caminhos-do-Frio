@@ -2,9 +2,9 @@
      setTimeout(function() {
          $.notify({
              // options
-             icon: '',
-             title: "<a href=\"single_tour.html\" target=\"_blank\"><h4>Last booking</h4>",
-             message: "<figure><img src=\"img/notify_img.jpg\"></figure><p>Arch de Triomphe Tour (13 min. ago).</a> "
+             icon: src='img/CAPA-SITE.png',
+             title: "<a href=\"all_tours_list.html\" target=\"_blank\"><h4>Rota Caminho do Frio</h4>",
+             message: "<figure><img src=\"img/notify_img.png\"></figure><p>Vai de 1 de Julho a 8 de Setembro.</a> "
          }, {
              // settings
              icon_type: 'image',
