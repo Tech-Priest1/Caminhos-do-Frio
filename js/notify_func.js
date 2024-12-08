@@ -3,8 +3,8 @@
          $.notify({
              // options
              icon: src='img/CAPA-SITE.png',
-             title: "<a href=\"all_tours_list.html\" target=\"_blank\"><h4>Rota Caminho do Frio</h4>",
-             message: "<figure><img src=\"img/notify_img.png\"></figure><p>Vai de 1 de Julho a 8 de Setembro.</a> "
+             title: "<a href=\"all_tours_list.html\" target=\"_blank\"><h4>Veja as Principais Rotas da Paraíba</h4>",
+             message: "<figure><img src=\"img/notify_img.png\"></figure><p>Promoções Imperdiveis.</a> "
          }, {
              // settings
              icon_type: 'image',

@@ -1,3 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.col-lg-9{
+    color: #f9f9f9;
+}
+.col-lg-6{
+    color: #444;
+}

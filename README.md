@@ -1,2 +1,2 @@
-# Caminhos-do-Frio
-Redesign do Site Caminho dos Frios
+# Vereda
+Site de turismo para a Paraíba
